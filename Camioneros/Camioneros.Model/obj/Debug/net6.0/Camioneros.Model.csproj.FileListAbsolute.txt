@@ -1,0 +1,26 @@
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.deps.json
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.dll
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.pdb
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.AssemblyInfoInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.AssemblyInfo.cs
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.dll
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\refint\Camioneros.Model.dll
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.pdb
+C:\Users\nacho\OneDrive\Escritorio\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\ref\Camioneros.Model.dll
+C:\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.dll
+C:\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\refint\Camioneros.Model.dll
+C:\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.pdb
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.deps.json
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.dll
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\bin\Debug\net6.0\Camioneros.Model.pdb
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.csproj.AssemblyReference.cache
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.AssemblyInfoInputs.cache
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.AssemblyInfo.cs
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.csproj.CoreCompileInputs.cache
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.dll
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\refint\Camioneros.Model.dll
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\Camioneros.Model.pdb
+C:\Users\CENTRAL GAMER\Desktop\API\Camioneros\Camioneros.Model\obj\Debug\net6.0\ref\Camioneros.Model.dll

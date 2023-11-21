@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Camioneros",
+    "\\Camioneros\\Camioneros",
+    "\\Camioneros\\Camioneros.Data",
+    "\\Camioneros\\Camioneros.Data\\Repositorio",
+    "\\Camioneros\\Camioneros.Model",
+    "\\Camioneros\\Camioneros\\Controllers"
+  ],
+  "SelectedNode": "\\Camioneros\\Camioneros\\Controllers\\CamioneroController.cs",
+  "PreviewInSolutionExplorer": false
+}
